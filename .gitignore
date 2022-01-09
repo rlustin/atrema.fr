@@ -1,0 +1,7 @@
+*.retry
+*~
+.DS_Store
+crash.log
+.env/
+*.code-workspace
+*.swp

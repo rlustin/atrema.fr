@@ -1,0 +1,18 @@
+body {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    height: 100vh;
+    background-color: rgb(238, 238, 238);
+    color: #242424;
+    font-size: 14px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    /* Target line-height of 20px, font-size of 14px, so 20 / 14 = 1.42857143 */
+    line-height: 1.42857143;
+}
+
+.logo {
+    width: 580px;
+    margin-top: -43px;
+    align-self: center;
+}
